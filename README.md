@@ -21,7 +21,7 @@
 ### About me
 
 - Final-year Computer Science student at **Epitech Paris** (graduating 2027)
-- **Open to work:** looking for an *alternance* (Sept–Feb) and an end-of-studies internship (Mar–Aug)
+- **Open to work:** looking for an end-of-studies internship (Mar–Aug)
 
 ---
 
